@@ -1,0 +1,141 @@
+/* - INDEX PAGE - */
+.miniLogo 
+{
+    background-image: url("../images/miniLogo.png");
+    height: 50px;
+    width: 150px;
+    background-size: 115px;
+    background-repeat: no-repeat;
+    background-position: 8px;
+}
+
+.slideOne
+{background-image: url("../images/banner1.png");}
+
+.slideTwo
+{background-image: url("../images/banner2.png");}
+
+.slideThree
+{background-image: url("../images/banner3.png");}
+
+.slideFour
+{background-image: url("../images/banner4.png");}
+
+#childIcon
+{
+  background-image: url("../images/childIcon.png");
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  margin-top: 3px;
+  background-size: 30px;
+}
+
+#youngIcon
+{
+  background-image: url("../images/youngIcon.png");
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  margin-top: 3px;
+  background-size: 30px;
+}
+
+#oldIcon
+{
+  background-image: url("../images/oldIcon.png");
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  margin-top: 3px;
+  background-size: 30px; 
+}
+
+.h4fixed{margin-left: 45px;}
+
+.breadcrumb a{color: #A2A2A2 !important;}
+.breadcrumb a:hover{color: #EC7514 !important;}
+.breadcrumb .active {color: black !important;}
+
+.whiteP{color: white;}
+.childDiv, .adolesDiv, .adultDiv{background-color: #EC7514 !important;}
+
+/* - ABOUT PAGE - */
+
+#psicodiagnostico, #vocacional, #neuroPsico, #psicoMotora, #paisebebes, #psicoPedagogica, #orientacaoPais, #orientacaoFilhos, #autista, #atrasoDesenvolvimento, #psicoterapia, #terapiaCasal{cursor: pointer;}
+
+.pointBall{  
+  background-repeat: no-repeat;
+  background-color: #EC7514;
+  height: 50px;
+  border: 0px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
+  width: 50px !important;
+}
+
+.psico{
+  background-image: url("../images/psicodiagnosticoIcon.png");
+  background-position: 9px 9px;
+}
+
+.couple{
+  background-image: url("../images/coupleIcon.png");
+  background-position: 8px 8px;
+}
+
+.vocacion{
+  background-image: url("../images/vocacionalIcon.png");
+  background-position: 9px 9px;
+}
+
+.clinicaPB{
+  background-image: url("../images/clinicaPaisBebesIcon.png");
+  background-position: 9px 9px;
+}
+
+.autismo{
+  background-image: url("../images/quebraCabecaIcon.png");
+  background-position: 9px 9px;
+}
+
+.atrasoDev{
+  background-image: url("../images/desenvolvimentoIcon.png");
+  background-position: 9px 9px;
+}
+
+.psicoTerapia{
+  background-image: url("../images/psicoterapyIcon.png");
+  background-position: 9px 9px;
+}
+
+.neuro{
+  background-image: url("../images/neuroPsicologiaIcon.png");
+  background-position: 9px 9px;
+}
+
+.motora{
+  background-image: url("../images/motoraIcon.png");
+  background-position: 9px 9px;
+}
+
+.intervencao{
+  background-image: url("../images/intervencaoIcon.png");
+  background-position: 9px 9px;
+}
+
+.paisFilhos{
+  background-image: url("../images/paisFilhosIcon.png");
+  background-position: 9px 9px;
+}
+
+.filhosPais{
+  background-image: url("../images/FilhosPaisIcon.png");
+  background-position: 9px 9px;
+}
+
+.baby{background-color: #D42A2A;}
+.young{background-color: #D0B400;}
+.old{background-color: #3F9BDC;}
