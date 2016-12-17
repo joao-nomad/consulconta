@@ -193,3 +193,16 @@ $("#gCorporativa").mouseleave(function() {
 });
 
 //--------------------------------------------------------------------------------------------//
+$("#terceirizacao").click(function() {
+  window.location.href = 'services/terceirizacao.html';
+});
+
+$("#terceirizacao").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#terceirizacao").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
