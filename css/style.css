@@ -139,3 +139,11 @@
 .baby{background-color: #D42A2A;}
 .young{background-color: #D0B400;}
 .old{background-color: #3F9BDC;}
+
+#sendBtn{
+  background-color: #367100 !important;
+  border: 0px;
+}
+#sendBtn:hover{
+  background-color: #1b3800 !important;
+}
