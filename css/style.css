@@ -54,11 +54,11 @@
 .h4fixed{margin-left: 45px;}
 
 .breadcrumb a{color: #A2A2A2 !important;}
-.breadcrumb a:hover{color: #EC7514 !important;}
+.breadcrumb a:hover{color: #367100 !important;}
 .breadcrumb .active {color: black !important;}
 
 .whiteP{color: white;}
-.childDiv, .adolesDiv, .adultDiv{background-color: #EC7514 !important;}
+.childDiv, .adolesDiv, .adultDiv{background-color: #367100 !important;}
 
 /* - ABOUT PAGE - */
 
@@ -66,7 +66,7 @@
 
 .pointBall{  
   background-repeat: no-repeat;
-  background-color: #EC7514;
+  background-color: #367100;
   height: 50px;
   border: 0px;
   border-bottom-left-radius: 40px;

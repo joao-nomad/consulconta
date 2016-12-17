@@ -7,7 +7,7 @@ $("#laudoPericial").hover(function() {
 });
 
 $("#laudoPericial").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -21,7 +21,7 @@ $("#parecerPericial").hover(function() {
 });
 
 $("#parecerPericial").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -35,7 +35,7 @@ $("#apHaveres").hover(function() {
 });
 
 $("#apHaveres").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -49,7 +49,7 @@ $("#cartaoCredito").hover(function() {
 });
 
 $("#cartaoCredito").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -63,7 +63,7 @@ $("#dissolucaoSociedades").hover(function() {
 });
 
 $("#dissolucaoSociedades").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -77,7 +77,7 @@ $("#fundoComercio").hover(function() {
 });
 
 $("#fundoComercio").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -91,7 +91,7 @@ $("#exclusaoSocios").hover(function() {
 });
 
 $("#exclusaoSocios").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -105,7 +105,7 @@ $("#financeiroHabitacao").hover(function() {
 });
 
 $("#financeiroHabitacao").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -119,7 +119,7 @@ $("#sucessaoHereditaria").hover(function() {
 });
 
 $("#sucessaoHereditaria").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -133,7 +133,7 @@ $("#prestacaoContas").hover(function() {
 });
 
 $("#prestacaoContas").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });
 
 //--------------------------------------------------------------------------------------------//
@@ -147,5 +147,5 @@ $("#contratosFinanceiros").hover(function() {
 });
 
 $("#contratosFinanceiros").mouseleave(function() {
-  $(this).children().children('span').children().css('background-color', '#EC7514');   
+  $(this).children().children('span').children().css('background-color', '#367100');   
 });

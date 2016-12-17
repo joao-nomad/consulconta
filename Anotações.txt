@@ -6,25 +6,10 @@ http://consulconta.com.br/
 # Lista de serviços;
 # Definições e descriçao de serviços;
 # Qual e-mail será enviado o contato?;
-# Construir perguntas frequentes;
 # Escritório de Consultoria Financeira (fotos);
-
-# Incluir logotipo Toledo Piza Perícias;
 ____________________________________________________________
-
-#Home
-		- Tipo de Perícias: Mudar p/ Tipo de Consultoria;
-
-#About
-		- Nossa empresa vira Quem Somos;
 
 #Services
 		- Mudar serviços;
 
-#Contact:
-
-#About:
-		- Incluir sócio;
-
-#FAQ: 
-		- Incluir perguntas frequentes;
+#Contact: arrumar formspre.me
