@@ -137,3 +137,59 @@ $("#avaliacaoEmpresas").mouseleave(function() {
 });
 
 //--------------------------------------------------------------------------------------------//
+
+$("#fluxoCaixa").click(function() {
+  window.location.href = 'services/fluxoCaixa.html';
+});
+
+$("#fluxoCaixa").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#fluxoCaixa").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#pericias").click(function() {
+  window.location.href = 'services/pericias.html';
+});
+
+$("#pericias").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#pericias").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#reorganizacao").click(function() {
+  window.location.href = 'services/reorganizacao.html';
+});
+
+$("#reorganizacao").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#reorganizacao").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#gCorporativa").click(function() {
+  window.location.href = 'services/gCorporativa.html';
+});
+
+$("#gCorporativa").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#gCorporativa").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
