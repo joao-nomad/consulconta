@@ -67,3 +67,73 @@ $("#avaliacaoBens").mouseleave(function() {
 });
 
 //--------------------------------------------------------------------------------------------//
+
+$("#relatoriosGerenciais").click(function() {
+  window.location.href = 'services/relatoriosGerenciais.html';
+});
+
+$("#relatoriosGerenciais").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#relatoriosGerenciais").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#orcamentos").click(function() {
+  window.location.href = 'services/orcamentos.html';
+});
+
+$("#orcamentos").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#orcamentos").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#contabilidadeCustos").click(function() {
+  window.location.href = 'services/contabilidadeCustos.html';
+});
+
+$("#contabilidadeCustos").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#contabilidadeCustos").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#lucratividadeReal").click(function() {
+  window.location.href = 'services/lucratividadeReal.html';
+});
+
+$("#lucratividadeReal").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#lucratividadeReal").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
+
+$("#avaliacaoEmpresas").click(function() {
+  window.location.href = 'services/avaliacaoEmpresas.html';
+});
+
+$("#avaliacaoEmpresas").hover(function() {
+  $(this).children().children('span').children().css('background-color', 'black');
+});
+
+$("#avaliacaoEmpresas").mouseleave(function() {
+  $(this).children().children('span').children().css('background-color', '#367100');   
+});
+
+//--------------------------------------------------------------------------------------------//
