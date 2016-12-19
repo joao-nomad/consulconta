@@ -76,63 +76,64 @@
   width: 50px !important;
 }
 
-.psico{
-  background-image: url("../images/psicodiagnosticoIcon.png");
+.sv1{
+  background-image: url("../images/sv1.png");
   background-position: 9px 9px;
 }
-
-.couple{
-  background-image: url("../images/coupleIcon.png");
-  background-position: 8px 8px;
-}
-
-.vocacion{
-  background-image: url("../images/vocacionalIcon.png");
+.sv2{
+  background-image: url("../images/sv2.png");
   background-position: 9px 9px;
 }
-
-.clinicaPB{
-  background-image: url("../images/clinicaPaisBebesIcon.png");
+.sv3{
+  background-image: url("../images/sv3.png");
   background-position: 9px 9px;
 }
-
-.autismo{
-  background-image: url("../images/quebraCabecaIcon.png");
+.sv4{
+  background-image: url("../images/sv4.png");
   background-position: 9px 9px;
 }
-
-.atrasoDev{
-  background-image: url("../images/desenvolvimentoIcon.png");
+.sv5{
+  background-image: url("../images/sv5.png");
   background-position: 9px 9px;
 }
-
-.psicoTerapia{
-  background-image: url("../images/psicoterapyIcon.png");
+.sv6{
+  background-image: url("../images/sv6.png");
   background-position: 9px 9px;
 }
-
-.neuro{
-  background-image: url("../images/neuroPsicologiaIcon.png");
+.sv7{
+  background-image: url("../images/sv7.png");
   background-position: 9px 9px;
 }
-
-.motora{
-  background-image: url("../images/motoraIcon.png");
+.sv8{
+  background-image: url("../images/sv8.png");
   background-position: 9px 9px;
 }
-
-.intervencao{
-  background-image: url("../images/intervencaoIcon.png");
+.sv9{
+  background-image: url("../images/sv9.png");
   background-position: 9px 9px;
 }
-
-.paisFilhos{
-  background-image: url("../images/paisFilhosIcon.png");
+.sv10{
+  background-image: url("../images/sv10.png");
   background-position: 9px 9px;
 }
-
-.filhosPais{
-  background-image: url("../images/FilhosPaisIcon.png");
+.sv11{
+  background-image: url("../images/sv11.png");
+  background-position: 9px 9px;
+}
+.sv12{
+  background-image: url("../images/sv12.png");
+  background-position: 9px 9px;
+}
+.sv13{
+  background-image: url("../images/sv13.png");
+  background-position: 9px 9px;
+}
+.sv14{
+  background-image: url("../images/sv14.png");
+  background-position: 9px 9px;
+}
+.sv15{
+  background-image: url("../images/sv15.png");
   background-position: 9px 9px;
 }
 
