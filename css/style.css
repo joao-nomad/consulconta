@@ -76,6 +76,8 @@
   width: 50px !important;
 }
 
+.media:hover{cursor: pointer;}
+
 .sv1{
   background-image: url("../images/sv1.png");
   background-position: 9px 9px;
